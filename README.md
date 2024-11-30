@@ -42,4 +42,3 @@ EDA involves exploring the reservation Data to answer key questions, such as:
 
 ![Screenshot 2024-11-29 141936](https://github.com/user-attachments/assets/a87075c9-bae2-4509-bbd8-a3d97d82e5b9)
 
-![Screenshot 2024-11-29 141949](https://github.com/user-attachments/assets/16811f15-7c08-4e7f-acc8-3d313c1ec870)
